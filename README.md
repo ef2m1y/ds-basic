@@ -1,3 +1,3 @@
 # ds-basics
 
-This is a repo to document the study of data science fundamentals.
+My kaggle account: https://www.kaggle.com/ef2m1y
